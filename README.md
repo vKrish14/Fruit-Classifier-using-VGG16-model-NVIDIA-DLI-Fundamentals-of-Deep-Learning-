@@ -39,12 +39,6 @@ Build a multi-class image classifier that can identify six fruit categories and 
 
 ## How to Run
 
-1. Place the dataset in the `data/fruits/` directory as shown above.
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-
-    Run the training script:
 
 python main.py
 
